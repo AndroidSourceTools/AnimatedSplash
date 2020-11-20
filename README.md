@@ -3,8 +3,6 @@
 [![](https://jitpack.io/v/pharidali/AnimatedSplash.svg)](https://jitpack.io/#pharidali/AnimatedSplash)
 <img src="https://img.shields.io/badge/API-29%2B-green.svg?style=plastic" border="0" alt="API">
 
-<img src="https://github.com/ViksaaSkool/AwesomeSplash/blob/master/rdme/web_res_512.png" width="96" height="96"/>
-
 Awesome-looking customizable splash screen
 
 <img src="https://github.com/ViksaaSkool/AwesomeSplash/blob/master/rdme/logo_promo.gif" width="210" height="330"/>
@@ -39,6 +37,8 @@ and then in dependencies:
 ```javascript
 	dependencies {
 	        implementation 'com.github.pharidali:AnimatedSplash:1.0.0'
+		
+		implementation 'com.daimajia.androidanimations:library:2.4@aar' //optional
 	}
 ```
 
