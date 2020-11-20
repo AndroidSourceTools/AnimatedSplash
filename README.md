@@ -1,6 +1,7 @@
 # Animated Splash
 
 [![](https://jitpack.io/v/pharidali/AnimatedSplash.svg)](https://jitpack.io/#pharidali/AnimatedSplash)
+<img src="https://img.shields.io/badge/API-29%2B-green.svg?style=plastic" border="0" alt="API">
 
 <img src="https://github.com/ViksaaSkool/AwesomeSplash/blob/master/rdme/web_res_512.png" width="96" height="96"/>
 
