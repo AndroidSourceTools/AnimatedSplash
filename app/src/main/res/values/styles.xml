@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <style name="AwesomeSplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+
+    <!-- ToolBar -->
+
+</resources>
