@@ -38,7 +38,7 @@ Add this to your build.grade:
 and then in dependencies:
 ```javascript
 	dependencies {
-	        implementation 'com.github.pharidali:AnimatedSplash:b33b364a3e'
+	        implementation 'com.github.pharidali:AnimatedSplash:1.0.0'
 	}
 ```
 
