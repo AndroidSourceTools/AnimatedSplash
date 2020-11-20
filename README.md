@@ -127,10 +127,13 @@ License
     THE SOFTWARE.
 
 
-# Developed By
+# Maintained & Upgraded By
 Pharid Ali
 </br>
 <a href="https://linkedin.com/in/pharidali">
   <img alt="Add me to Linkedin" src="http://is.gd/u42ILV" width="96" height="96"/>
 </a>
+
+# Developed By
+Viktor Arsovski
 
